@@ -1,1 +1,1 @@
-In the task we use class object and getter and setter
+In the task we use classes and getter and setter
